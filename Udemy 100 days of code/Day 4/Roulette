@@ -1,0 +1,10 @@
+names = names_string.split(", ")
+# The code above converts the input into an array seperating
+#each name in the input by a comma and space.
+# 🚨 Don't change the code above 👆
+import random
+amout_of_people=len(names)-1
+random_person=random.randint(0,amout_of_people)
+person_paying=names[random_person]
+print(f"{person_paying} is going to buy the meal today!")
+
