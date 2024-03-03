@@ -1,8 +1,0 @@
-country = input("What Country do you live in? ")
-state = input("What State do you live in? " )
-city = input ("What City do you live in? ")
-continent = input("What continent do you live on? ")
-print (f"You live in {country}")
-print(f"Located in {continent}")
-print(f"Within {country} you live in {state}")
-print(f"More specifically in {city},{state}")
