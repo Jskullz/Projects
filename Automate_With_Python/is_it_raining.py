@@ -1,3 +1,4 @@
+
 def valid_input(answer):
     if answer.lower() == "yes" or answer.lower() == "no":
         return True
