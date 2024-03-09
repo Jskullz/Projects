@@ -8,8 +8,7 @@ The projects in this folder are organized into subdirectories based on their res
 
 ## How to Navigate:
 
-To explore the projects, simply browse through the different subdirectories. Each project folder contains its own README file providing detailed information about the project, including its description, key features, technologies used, and instructions on how to run or use the project.
-
+To explore the projects, simply browse through the different subdirectories. Each project folder contains a project with a name of what the project is, unfortunetly at this time each project does not contain a read me.
 ## Contributions:
 
 While these projects primarily serve as my personal learning exercises, I welcome contributions, suggestions, and feedback from the community. If you find any issues, have ideas for improvements, or would like to collaborate on any of the projects, feel free to open an issue or submit a pull request.
