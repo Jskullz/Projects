@@ -1,0 +1,34 @@
+Fortune Teller
+This simple Python script, titled "Fortune Teller," allows you to ask the fortune teller a question and receive a random fortune in response. The fortune is determined by rolling a random number between 1 and 9.
+
+How to Use
+Run the Script: Execute the Python script in your preferred environment.
+
+Start the Fortune Teller: Press enter to start the fortune teller.
+
+Ask a Question: Think of a question you would like to ask the fortune teller, then press enter to continue.
+
+Reveal Your Fortune: The fortune teller will think for a moment, then press enter again to reveal your fortune.
+
+View the Fortune: The fortune teller will display your fortune based on the random number rolled.
+
+Play Again: After receiving your fortune, you have the option to ask another question. Type "yes" to ask another question or "no" to exit.
+
+Requirements
+Python 3.x
+random module
+os module
+Usage
+python
+Copy code
+python fortune_teller.py
+Note
+This script works on both Windows and Unix/Linux-based systems, thanks to the os module used for clearing the console screen.
+Ensure you have the required Python modules installed (random, os) before running the script.
+Contributions
+Contributions, suggestions, and feedback are welcome. Feel free to open an issue or submit a pull request if you have any ideas for improving this script.
+
+License
+This script is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes.
+
+Enjoy your fortunes! 🌟
