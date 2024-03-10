@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TEST",
+            "request": "launch",
+            "mainClass": "Java_HW.TEST",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
+            "name": "InchToCmConverter",
+            "request": "launch",
+            "mainClass": "Java_HW.InchToCmConverter",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
+            "name": "Java_Template",
+            "request": "launch",
+            "mainClass": "Java_Template",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
+            "name": "ComfortableTemperature",
+            "request": "launch",
+            "mainClass": "ComfortableTemperature",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "name": "Launch built-in server",
+            "type": "php",
+            "request": "launch",
+            "runtimeArgs": [
+                "-S",
+                "localhost:8000",
+                "-t",
+                "."
+            ],
+            "port": 9003,
+            "serverReadyAction": {
+                "action": "openExternally"
+            }
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

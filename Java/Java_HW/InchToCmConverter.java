@@ -1,3 +1,5 @@
+package Java_HW;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
@@ -16,6 +18,8 @@ public class InchToCmConverter {
         double inches = scanner.nextDouble();
         double cm = inches * 2.54;
         System.out.println("Your height in centimeters is: "+ cm);
+        
+        scanner.close(); // Close the scanner to avoid resource leak
     }
     
 }
