@@ -7,7 +7,7 @@ package Java_HW;
 import java.util.Scanner;
 
 
-public class TEST {
+public class Overtime_Pay {
 
     /**
      * @param args the command line arguments
@@ -27,5 +27,6 @@ public class TEST {
         }
         String message= String.format("By working %.2f hours at a rate of $%.2f an hour, you earned $%.2f this week.", hours, wage, pay);
         System.out.println(message);
+        scanner.close();
     }
 }
