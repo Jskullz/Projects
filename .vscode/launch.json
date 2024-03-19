@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "divisible_by_7",
+            "request": "launch",
+            "mainClass": "Java_HW.divisible_by_7",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
             "name": "TEST",
             "request": "launch",
             "mainClass": "Java_HW.TEST",
