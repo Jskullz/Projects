@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Check_Prime_Number",
+            "request": "launch",
+            "mainClass": "Java_HW.Check_Prime_Number",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusToFahrenheitTable",
+            "request": "launch",
+            "mainClass": "Java_HW.CelsiusToFahrenheitTable",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
+            "name": "Sales_Tax",
+            "request": "launch",
+            "mainClass": "Java_HW.Sales_Tax",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
+            "name": "FullAddress",
+            "request": "launch",
+            "mainClass": "Java_HW.FullAddress",
+            "projectName": "Projects_11828703"
+        },
+        {
+            "type": "java",
             "name": "divisible_by_7",
             "request": "launch",
             "mainClass": "Java_HW.divisible_by_7",
